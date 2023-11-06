@@ -1,0 +1,73 @@
+{
+    "typography": {
+        "font": {
+            "family": "Roboto",
+            "variants": [
+                {
+                    "type": "Light",
+                    "weight": 300
+                },
+                {
+                    "type": "Regular",
+                    "weight": 400
+                },
+                {
+                    "type": "Medium",
+                    "weight": 500
+                },
+                {
+                    "type": "SemiBold",
+                    "weight": 600
+                },
+                {
+                    "type": "Bold",
+                    "weight": 700
+                },
+                {
+                    "type": "ExtraBold",
+                    "weight": 800
+                }
+            ]
+        },
+        "settings": [
+            {
+                "h1": {
+                    "fontSize": "48px",
+                    "lineHeight": "60px"
+                },
+                "h2": {
+                    "fontSize": "48px",
+                    "lineHeight": "60px"
+                },
+                "h3": {
+                    "fontSize": "48px",
+                    "lineHeight": "60px"
+                },
+                "p": {
+                    "fontSize": "16px",
+                    "lineHeight": "24px"
+                }
+            }
+        ]
+    },
+    "colors": [
+        {
+            "black": "#000000"
+        },
+        {
+            "dark": "#222222"
+        },
+        {
+            "yellow": "#ede236"
+        },
+        {
+            "white": "#ffffff"
+        },
+        {
+            "ash": "#f2f2f2"
+        },
+        {
+            "maroon": "#913d2e"
+        }
+    ]
+}

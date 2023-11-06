@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "attributes": {
+            "level": 1
+        }
+    },
+    {
+        "id": 2,
+        "attributes": {
+            "level": 2
+        }
+    },
+    {
+        "id": 3,
+        "attributes": {
+            "level": 3
+        }
+    },
+    {
+        "id": 4,
+        "attributes": {
+            "level": 2
+        }
+    },
+    {
+        "id": 5,
+        "attributes": {
+            "level": 1
+        }
+    },
+    {
+        "id": 6,
+        "attributes": {
+            "level": 2
+        }
+    },
+    {
+        "id": 7,
+        "attributes": {
+            "level": 3
+        }
+    }
+]
