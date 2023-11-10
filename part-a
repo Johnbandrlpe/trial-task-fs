@@ -1,4 +1,4 @@
 One of the client websites is down both on FE and BE, because of some error on one of the plugins or themes. You only have access to the DB and Files. What would you do?
 - I'll go to the server and check each plugin. Following that, I'll disable(rename the plugin on the server) one plugin at a time and verify if it resolves the website issue.
 - I'll continue this process until I've reviewed all the plugins and themes, ensuring a thorough examination to identify and address the problem.
-- Other thing I can do is enable the wp_debug to check directly what's causing the error and disable (rename the plugin on the server).
+- Other thing I can do is enable the wp_debug to check directly what's causing the error and disable (rename the plugin on the server) the plugin to fix the problem.
